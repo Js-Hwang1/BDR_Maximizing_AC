@@ -1,0 +1,13 @@
+build/
+results/
+
+*.csv
+*.log
+*.out
+*.pdf
+*.zip
+
+.DS_Store
+.idea/
+.vscode/
+
